@@ -1,0 +1,1 @@
+The projects contained in this repository catalogs basic to intermediate concepts in C programming, intended for use in future projects.
